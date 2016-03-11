@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DeepFocus 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-06 17:00+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ann <anochka1985@gmail.com>\n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:9
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:24
+msgid "0 Comments"
+msgstr ""
+
+#: ../comments.php:24
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:24
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:43
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: ../comments.php:66
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:66
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:72
+msgid "You must be"
+msgstr ""
+
+#: ../comments.php:72
+msgid "logged in"
+msgstr ""
+
+#: ../comments.php:72
+msgid "to post a comment."
+msgstr ""
+
+#: ../comments.php:76
+msgid "Logged in as"
+msgstr ""
+
+#: ../comments.php:76
+msgid "Log out &raquo;"
+msgstr ""
+
+#: ../comments.php:80
+#: ../page-contact.php:135
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:81
+#: ../comments.php:87
+msgid "(required)"
+msgstr ""
+
+#: ../comments.php:86
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: ../comments.php:92
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:100
+msgid "Submit Comment"
+msgstr ""
+
+#: ../footer.php:12
+msgid "Designed by "
+msgstr ""
+
+#: ../footer.php:12
+msgid "Powered by "
+msgstr ""
+
+#: ../functions.php:36
+msgid "Primary Menu"
+msgstr ""
+
+#: ../header.php:55
+msgid "Home"
+msgstr ""
+
+#: ../header.php:67
+msgid "search this site..."
+msgstr ""
+
+#: ../home.php:38
+msgid "Learn More"
+msgstr ""
+
+#: ../home.php:48
+msgid "From The Blog"
+msgstr ""
+
+#: ../home.php:55
+#: ../page-blog.php:96
+msgid "Posted"
+msgstr ""
+
+#: ../home.php:55
+#: ../page-blog.php:96
+msgid "by"
+msgstr ""
+
+#: ../home.php:55
+#: ../page-blog.php:96
+msgid "on"
+msgstr ""
+
+#: ../home.php:64
+msgid "Previous"
+msgstr ""
+
+#: ../home.php:65
+msgid "Next"
+msgstr ""
+
+#: ../home.php:71
+msgid "Recent Works"
+msgstr ""
+
+#: ../home.php:95
+msgid "Enter The Gallery"
+msgstr ""
+
+#: ../page-blog.php:84
+#: ../page-contact.php:125
+#: ../page-full.php:65
+#: ../page-gallery.php:80
+#: ../page-login.php:77
+#: ../page-search.php:77
+#: ../page-search.php:87
+#: ../page-sitemap.php:77
+#: ../page-sitemap.php:81
+#: ../page.php:61
+msgid "Pages"
+msgstr ""
+
+#: ../page-blog.php:96
+msgid "in"
+msgstr ""
+
+#: ../page-blog.php:96
+msgid "0 comments"
+msgstr ""
+
+#: ../page-blog.php:96
+msgid "1 comment"
+msgstr ""
+
+#: ../page-blog.php:96
+msgid "comments"
+msgstr ""
+
+#: ../page-blog.php:116
+msgid "read more"
+msgstr ""
+
+#: ../page-blog.php:135
+#: ../page-contact.php:172
+#: ../page-full.php:66
+#: ../page-gallery.php:119
+#: ../page-login.php:94
+#: ../page-search.php:123
+#: ../page-sitemap.php:114
+#: ../page.php:62
+msgid "Edit this page"
+msgstr ""
+
+#: ../page-contact.php:21
+msgid "Make sure you entered the captcha. "
+msgstr ""
+
+#: ../page-contact.php:24
+msgid "Numbers regenerated."
+msgstr ""
+
+#: ../page-contact.php:25
+msgid "You entered the wrong number in captcha. "
+msgstr ""
+
+#: ../page-contact.php:34
+msgid "Make sure you fill all fields. "
+msgstr ""
+
+#: ../page-contact.php:39
+msgid "Invalid Email. "
+msgstr ""
+
+#: ../page-contact.php:59
+msgid "Thanks for contacting us"
+msgstr ""
+
+#: ../page-contact.php:139
+msgid "Email Address"
+msgstr ""
+
+#: ../page-contact.php:143
+msgid "Subject"
+msgstr ""
+
+#: ../page-contact.php:150
+msgid "Captcha: "
+msgstr ""
+
+#: ../page-contact.php:159
+msgid "Message"
+msgstr ""
+
+#: ../page-contact.php:164
+msgid "Reset"
+msgstr ""
+
+#: ../page-contact.php:165
+#: ../page-search.php:115
+msgid "Submit"
+msgstr ""
+
+#: ../page-gallery.php:101
+msgid "Zoom in"
+msgstr ""
+
+#: ../page-gallery.php:102
+msgid "Read more"
+msgstr ""
+
+#: ../page-login.php:83
+msgid "Username"
+msgstr ""
+
+#: ../page-login.php:84
+msgid "Password"
+msgstr ""
+
+#: ../page-login.php:88
+msgid "Not a member?"
+msgstr ""
+
+#: ../page-login.php:88
+msgid "Register today!"
+msgstr ""
+
+#: ../page-search.php:81
+msgid "search this website"
+msgstr ""
+
+#: ../page-search.php:86
+msgid "Posts"
+msgstr ""
+
+#: ../page-search.php:90
+msgid "Select a month"
+msgstr ""
+
+#: ../page-sitemap.php:86
+msgid "Categories"
+msgstr ""
+
+#: ../page-sitemap.php:91
+msgid "Tags"
+msgstr ""
+
+#: ../page-sitemap.php:107
+msgid "Authors"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:8
+msgid "Posts Tagged "
+msgstr ""
+
+#: ../includes/breadcrumbs.php:10
+#: ../includes/breadcrumbs.php:12
+#: ../includes/breadcrumbs.php:14
+msgid "Posts made in"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:16
+msgid "Search results for"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:24
+msgid "Posts by "
+msgstr ""
+
+#: ../includes/featured.php:50
+msgid "Read More"
+msgstr ""
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr ""
+
+#: ../includes/no-results.php:4
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr ""
+
+#: ../includes/functions/comments.php:13
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/functions/comments.php:17
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/functions/comments.php:22
+msgid "Reply"
+msgstr ""
+
